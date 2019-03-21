@@ -1,0 +1,35 @@
+.container
+{
+	height: auto;
+	
+
+}
+.mainheader
+{
+	height: 200px;
+	width: 70%;
+	background-color:#580b90;
+	opacity: 0.8;
+	float: left;
+}
+.mainheader h2,p
+{
+	color:white;
+}
+.mainheader p
+{
+	width: 80%;
+}
+.mainheader h4
+{
+	color:#ec0fa9;
+	font-weight: bold;
+}
+
+.smallheader
+{
+background-color:  black;
+height: 50px;
+width: 70%; 
+float: left;
+}
